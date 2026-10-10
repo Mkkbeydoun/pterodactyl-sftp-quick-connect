@@ -1,0 +1,11 @@
+{
+    "description": "Open a server's files in FileZilla, WinSCP, Cyberduck or a terminal in one click, with the SFTP address and username filled in.",
+    "autoload": {
+        "psr-4": {
+            "RustixDev\\SftpQuickConnect\\": "src/"
+        }
+    },
+    "config": {
+        "autoloader-suffix": "SftpQuickConnectExtension"
+    }
+}

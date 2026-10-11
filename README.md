@@ -30,7 +30,7 @@ Open **Admin → Extensions → SFTP Quick Connect → Settings**.
 
 ## Install
 
-1. Download `sftp-quick-connect-<version>.pteroext` from the [latest release](https://github.com/Mkkbeydoun/pterodactyl-sftp-quick-connect/releases/latest).
+1. Download `sftp-quick-connect-<version>.pteroext` from the [latest release](https://github.com/Rustix-Development/pterodactyl-sftp-quick-connect/releases/latest).
 2. In the panel, open **Admin → Extensions**, upload the file and enable it.
 3. Reload the panel.
 

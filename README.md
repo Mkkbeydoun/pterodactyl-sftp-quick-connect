@@ -30,14 +30,14 @@ Open **Admin → Extensions → SFTP Quick Connect → Settings**.
 
 ## Install
 
-1. Download `sftp-quick-connect-1.0.0.pteroext` from the release.
+1. Download `sftp-quick-connect-<version>.pteroext` from the [latest release](https://github.com/Mkkbeydoun/pterodactyl-sftp-quick-connect/releases/latest).
 2. In the panel, open **Admin → Extensions**, upload the file and enable it.
 3. Reload the panel.
 
 From a terminal instead:
 
 ```sh
-php artisan p:extension:install /path/to/sftp-quick-connect-1.0.0.pteroext --enable
+php artisan p:extension:install /path/to/sftp-quick-connect-<version>.pteroext --enable
 ```
 
 ## Build from source
@@ -53,6 +53,14 @@ php artisan p:extension:pack /path/to/sftp-quick-connect
 
 ## Uninstall
 
+Remove it under **Admin → Extensions**, or from a terminal:
+
 ```sh
 php artisan p:extension:remove sftp-quick-connect
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+This is a community extension and is not affiliated with or endorsed by Pterodactyl.

@@ -25,7 +25,7 @@ Open **Admin → Extensions → SFTP Quick Connect → Settings**.
 
 ## Requirements
 
-- Pterodactyl Panel 2.0 (2.0-develop or later)
+- Pterodactyl Panel v2.0.0-beta.1 or later
 - PHP 8.3+
 
 ## Install
